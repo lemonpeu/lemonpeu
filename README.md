@@ -1,16 +1,20 @@
-### Hi there 👋
+# Peu
 
-<!--
-**peudemaret/peudemaret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 Hi! I'm Paula (she/her) but you can call me Peu. I'm a `front-end developer` living in Argentina and currently working on Tap.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌷 What I know:
+
+### Advanced 
+HTML5, CSS3 (SASS, Styled Components), JavaScript, React, 
+
+> Library components I use: MaterialUI, Ant Design, Chakra.
+
+### Intermediate
+NextJS, Gatsby, Redux.
+
+### Beginner
+NodeJS. Learning C#, TypeScript.
+
+
