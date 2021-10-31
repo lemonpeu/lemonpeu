@@ -1,12 +1,13 @@
 
+![Me](https://i.pinimg.com/originals/58/00/c8/5800c8fdbc2c578383746189f52ac292.gif)
 
-<h1>Peu ![Me](https://i.pinimg.com/originals/58/00/c8/5800c8fdbc2c578383746189f52ac292.gif)</h1>
+#🧸 Peu 
 
 🌸 Hi! I'm Paula (she/her) but you can call me Peu. I'm a `front-end developer` living in Argentina and currently working on Tap.
 
 ---
 
-## 🌷 I work with
+##🌷 I work with
 
 * HTML5,
 * CSS3
@@ -15,7 +16,7 @@
 
 ![Learning](https://i.pinimg.com/564x/e4/b1/5e/e4b15e31948cff7bc4ceb21b9c6b72ee.jpg)
 
-## ✨ I'm still learning:
+##✨ I'm still learning:
 
 * Redux
 * NextJS
@@ -25,9 +26,11 @@
 * Firebase
 * Testing (Mocha)
 
-### 👾 As a hobby I really enjoy to make videogames and for that I use:
+###👾 As a hobby I really enjoy to make videogames and for that I use:
 
 * Unity + C#
+
+---
 
 My goals:
 
