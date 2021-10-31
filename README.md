@@ -13,7 +13,7 @@
 * JavaScript
 * React (using Context)
 
-![Learning](https://i.pinimg.com/originals/d3/48/bf/d348bfee5593d27f4131620f93a715a0.gif)
+![Learning](https://i.pinimg.com/564x/e4/b1/5e/e4b15e31948cff7bc4ceb21b9c6b72ee.jpg)
 
 I'm still learning and I include this technologies:
 
