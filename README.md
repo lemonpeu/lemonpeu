@@ -1,6 +1,6 @@
-# Peu
 
-![Me](https://i.pinimg.com/originals/58/00/c8/5800c8fdbc2c578383746189f52ac292.gif)
+
+<h1>Peu ![Me](https://i.pinimg.com/originals/58/00/c8/5800c8fdbc2c578383746189f52ac292.gif)</h1>
 
 🌸 Hi! I'm Paula (she/her) but you can call me Peu. I'm a `front-end developer` living in Argentina and currently working on Tap.
 
