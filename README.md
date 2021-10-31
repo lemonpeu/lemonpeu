@@ -2,6 +2,9 @@
 
 🌸 Hi! I'm Paula (she/her) but you can call me Peu. I'm a `front-end developer` living in Argentina and currently working on Tap.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonpeu)](https://github.com/lemonpeu/github-readme-stats)
+
+
 ---
 
 ## 🌷 I work with (Front)
