@@ -15,18 +15,24 @@
 
 ![Learning](https://i.pinimg.com/564x/e4/b1/5e/e4b15e31948cff7bc4ceb21b9c6b72ee.jpg)
 
-I'm still learning and I include this technologies:
+## ✨ I'm still learning:
 
 * Redux
 * NextJS
 * Gatsby
 * NodeJS
+* MongoDB
 * Firebase
 * Testing (Mocha)
 
-As a hobby I really enjoy to make videogames and for that I use:
+### 👾 As a hobby I really enjoy to make videogames and for that I use:
 
 * Unity + C#
+
+My goals:
+
+- [ ] To become a fullstack developer
+- [ ] To learn about cibersecurity
 
 ---
 
