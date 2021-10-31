@@ -7,7 +7,7 @@
 
 ---
 
-##🌷 I work with
+<h2>🌷 I work with</h2>
 
 * HTML5,
 * CSS3
@@ -16,7 +16,7 @@
 
 ![Learning](https://i.pinimg.com/564x/e4/b1/5e/e4b15e31948cff7bc4ceb21b9c6b72ee.jpg)
 
-##✨ I'm still learning:
+<h3>✨ I'm still learning:</h3>
 
 * Redux
 * NextJS
@@ -26,7 +26,7 @@
 * Firebase
 * Testing (Mocha)
 
-###👾 As a hobby I really enjoy to make videogames and for that I use:
+<h3>👾 As a hobby I really enjoy to make videogames and for that I use:</h3>
 
 * Unity + C#
 
