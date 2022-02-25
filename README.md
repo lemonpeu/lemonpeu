@@ -13,18 +13,18 @@
 * CSS3
 * JavaScript
 * React (using Context)
+* NextJS
+* Gatsby
 
 ![Learning](https://i.pinimg.com/564x/e4/b1/5e/e4b15e31948cff7bc4ceb21b9c6b72ee.jpg)
 
 <h3>✨ I'm still learning:</h3>
 
 * Redux
-* NextJS
-* Gatsby
 * NodeJS
 * MongoDB
 * Firebase
-* Testing (Mocha)
+* Testing (Mocha, Enzyme, React-testing-library)
 
 <h3>👾 As a hobby I really enjoy to make videogames and for that I use:</h3>
 
