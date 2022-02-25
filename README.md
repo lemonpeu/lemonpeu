@@ -3,7 +3,7 @@
 
 <h1>🧸 Peu </h1>
 
-🌸 Hi! I'm Paula (she/her) but you can call me Peu. I'm a `front-end developer` living in Argentina and currently working on Tap.
+🌸 Hi! I'm Paula (she/her) but you can call me Peu. I'm a `front-end developer` living in Argentina.
 
 ---
 
