@@ -32,13 +32,6 @@
 
 ---
 
-My goals:
-
-- [ ] To become a fullstack developer
-- [ ] To learn about cibersecurity
-
----
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonpeu)](https://github.com/lemonpeu/github-readme-stats)
 
 
